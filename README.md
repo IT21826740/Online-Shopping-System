@@ -69,3 +69,5 @@ Total Order Cost: $820.0
 4. **Abstraction**: The `Product` class provides a general representation of a product, while the derived classes provide specific implementations for different product types.
 
 This question and solution provide a comprehensive understanding of key OOP concepts and their application in a real-world scenario.
+
+Question Generate : ChatGPT
